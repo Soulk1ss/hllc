@@ -1,0 +1,12 @@
+[2020-07-15 11:47:55:252] - log: [2020-07-15 11:47:55:250] - info: ----- Start accountLogin -----
+[2020-07-15 11:47:55:250] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","accept-language":"th-TH,th;q=0.9,en;q=0.8","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2020-07-15 11:47:55:250] - info: ----- incomming parameters Body [{"u_id":"6231006038","u_password":"1560301355499"}] -----
+[2020-07-15 11:47:55:250] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2020-07-15 11:47:55:250] - info: ----- start time [Wed Jul 15 2020 11:47:55 GMT+0700 (Indochina Time)] -----
+
+[2020-07-15 11:53:56:682] - log: [2020-07-15 11:53:56:681] - info: ----- Start accountLogin -----
+[2020-07-15 11:53:56:681] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"express:sess=e30=; express:sess.sig=LYByUuvApwLSP76DrytKdRd2Ux0","accept-language":"th-TH,th;q=0.9,en;q=0.8","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2020-07-15 11:53:56:681] - info: ----- incomming parameters Body [{"u_id":"6231006038","u_password":"1560301355499"}] -----
+[2020-07-15 11:53:56:681] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2020-07-15 11:53:56:681] - info: ----- start time [Wed Jul 15 2020 11:53:56 GMT+0700 (Indochina Time)] -----
+

@@ -1,0 +1,24 @@
+[2020-07-15 12:06:40:860] - log: [2020-07-15 12:06:40:858] - info: ----- Start accountLogin -----
+[2020-07-15 12:06:40:858] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"express:sess=e30=; express:sess.sig=LYByUuvApwLSP76DrytKdRd2Ux0","accept-language":"th-TH,th;q=0.9,en;q=0.8","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2020-07-15 12:06:40:858] - info: ----- incomming parameters Body [{"u_id":"6231006038","u_password":"1560301355499"}] -----
+[2020-07-15 12:06:40:859] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2020-07-15 12:06:40:859] - info: ----- start time [Wed Jul 15 2020 12:06:40 GMT+0700 (Indochina Time)] -----
+
+[2020-07-15 12:06:56:812] - log: [2020-07-15 12:06:56:811] - info: ----- Start accountLogin -----
+[2020-07-15 12:06:56:811] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"express:sess=e30=; express:sess.sig=LYByUuvApwLSP76DrytKdRd2Ux0","accept-language":"th-TH,th;q=0.9,en;q=0.8","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2020-07-15 12:06:56:811] - info: ----- incomming parameters Body [{"u_id":"6231006038","u_password":"1560301355499"}] -----
+[2020-07-15 12:06:56:811] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2020-07-15 12:06:56:811] - info: ----- start time [Wed Jul 15 2020 12:06:56 GMT+0700 (Indochina Time)] -----
+
+[2020-07-15 12:08:08:467] - log: [2020-07-15 12:08:08:466] - info: ----- Start accountLogin -----
+[2020-07-15 12:08:08:466] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"express:sess=e30=; express:sess.sig=LYByUuvApwLSP76DrytKdRd2Ux0","accept-language":"th-TH,th;q=0.9,en;q=0.8","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2020-07-15 12:08:08:466] - info: ----- incomming parameters Body [{"u_id":"6231006038","u_password":"1560301355499"}] -----
+[2020-07-15 12:08:08:466] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2020-07-15 12:08:08:466] - info: ----- start time [Wed Jul 15 2020 12:08:08 GMT+0700 (Indochina Time)] -----
+
+[2020-07-15 12:08:24:246] - log: [2020-07-15 12:08:24:245] - info: ----- Start accountLogin -----
+[2020-07-15 12:08:24:245] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"express:sess=e30=; express:sess.sig=LYByUuvApwLSP76DrytKdRd2Ux0","accept-language":"th-TH,th;q=0.9,en;q=0.8","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36","accept":"application/json, text/plain, */*","content-length":"53","connection":"close","host":"localhost:8000"}] -----
+[2020-07-15 12:08:24:245] - info: ----- incomming parameters Body [{"u_id":"6231006038","u_password":"1560301355499dfd"}] -----
+[2020-07-15 12:08:24:245] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2020-07-15 12:08:24:245] - info: ----- start time [Wed Jul 15 2020 12:08:24 GMT+0700 (Indochina Time)] -----
+

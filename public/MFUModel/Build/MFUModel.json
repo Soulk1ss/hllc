@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MFUmodel",
+"productVersion": "0.1",
+"dataUrl": "MFUModel.data.unityweb",
+"wasmCodeUrl": "MFUModel.wasm.code.unityweb",
+"wasmFrameworkUrl": "MFUModel.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#808080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}

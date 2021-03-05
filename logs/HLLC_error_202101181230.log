@@ -1,0 +1,91 @@
+[2021-01-18 12:34:50:770] - log: [2021-01-18 12:34:50:767] - info: ----- Start accountLogin -----
+[2021-01-18 12:34:50:767] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:34:50:767] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:34:50:767] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:34:50:767] - info: ----- start time [Mon Jan 18 2021 12:34:50 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:34:50:767] - info: ----- error Message[MongoError: command find requires authentication] -----
+
+[2021-01-18 12:38:48:657] - log: [2021-01-18 12:38:48:656] - info: ----- Start accountLogin -----
+[2021-01-18 12:38:48:656] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:38:48:656] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:38:48:656] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:38:48:656] - info: ----- start time [Mon Jan 18 2021 12:38:48 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:38:48:656] - info: ----- error Message[MongoError: command find requires authentication] -----
+
+[2021-01-18 12:42:23:640] - log: [2021-01-18 12:42:23:640] - info: ----- Start accountLogin -----
+[2021-01-18 12:42:23:640] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:42:23:640] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:42:23:640] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:42:23:640] - info: ----- start time [Mon Jan 18 2021 12:42:23 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:42:23:640] - info: ----- error Message[MongoError: command find requires authentication] -----
+
+[2021-01-18 12:42:24:730] - log: [2021-01-18 12:42:24:730] - info: ----- Start accountLogin -----
+[2021-01-18 12:42:24:730] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:42:24:730] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:42:24:730] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:42:24:730] - info: ----- start time [Mon Jan 18 2021 12:42:24 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:42:24:730] - info: ----- error Message[MongoError: command find requires authentication] -----
+
+[2021-01-18 12:42:25:555] - log: [2021-01-18 12:42:25:555] - info: ----- Start accountLogin -----
+[2021-01-18 12:42:25:555] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:42:25:555] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:42:25:555] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:42:25:555] - info: ----- start time [Mon Jan 18 2021 12:42:25 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:42:25:555] - info: ----- error Message[MongoError: command find requires authentication] -----
+
+[2021-01-18 12:42:25:965] - log: [2021-01-18 12:42:25:965] - info: ----- Start accountLogin -----
+[2021-01-18 12:42:25:965] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:42:25:965] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:42:25:965] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:42:25:965] - info: ----- start time [Mon Jan 18 2021 12:42:25 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:42:25:965] - info: ----- error Message[MongoError: command find requires authentication] -----
+
+[2021-01-18 12:42:26:703] - log: [2021-01-18 12:42:26:702] - info: ----- Start accountLogin -----
+[2021-01-18 12:42:26:702] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:42:26:702] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:42:26:702] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:42:26:702] - info: ----- start time [Mon Jan 18 2021 12:42:26 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:42:26:702] - info: ----- error Message[MongoError: command find requires authentication] -----
+
+[2021-01-18 12:42:26:874] - log: [2021-01-18 12:42:26:874] - info: ----- Start accountLogin -----
+[2021-01-18 12:42:26:874] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:42:26:874] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:42:26:874] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:42:26:874] - info: ----- start time [Mon Jan 18 2021 12:42:26 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:42:26:874] - info: ----- error Message[MongoError: command find requires authentication] -----
+
+[2021-01-18 12:42:26:956] - log: [2021-01-18 12:42:26:955] - info: ----- Start accountLogin -----
+[2021-01-18 12:42:26:955] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:42:26:955] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:42:26:955] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:42:26:955] - info: ----- start time [Mon Jan 18 2021 12:42:26 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:42:26:955] - info: ----- error Message[MongoError: command find requires authentication] -----
+
+[2021-01-18 12:42:27:041] - log: [2021-01-18 12:42:27:040] - info: ----- Start accountLogin -----
+[2021-01-18 12:42:27:040] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:42:27:040] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:42:27:041] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:42:27:041] - info: ----- start time [Mon Jan 18 2021 12:42:27 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:42:27:041] - info: ----- error Message[MongoError: command find requires authentication] -----
+
+[2021-01-18 12:42:27:271] - log: [2021-01-18 12:42:27:270] - info: ----- Start accountLogin -----
+[2021-01-18 12:42:27:270] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:42:27:270] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:42:27:270] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:42:27:270] - info: ----- start time [Mon Jan 18 2021 12:42:27 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:42:27:270] - info: ----- error Message[MongoError: command find requires authentication] -----
+
+[2021-01-18 12:42:27:485] - log: [2021-01-18 12:42:27:484] - info: ----- Start accountLogin -----
+[2021-01-18 12:42:27:484] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:42:27:484] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:42:27:484] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:42:27:484] - info: ----- start time [Mon Jan 18 2021 12:42:27 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:42:27:484] - info: ----- error Message[MongoError: command find requires authentication] -----
+
+[2021-01-18 12:42:27:716] - log: [2021-01-18 12:42:27:715] - info: ----- Start accountLogin -----
+[2021-01-18 12:42:27:715] - info: ----- incomming parameters Headers [{"x-forwarded-host":"localhost:8080","x-forwarded-proto":"http","x-forwarded-port":"8080","x-forwarded-for":"127.0.0.1","cookie":"_ga=GA1.1.1195431045.1600852331","accept-language":"en-US,en;q=0.9,th-TH;q=0.8,th;q=0.7","accept-encoding":"gzip, deflate, br","referer":"http://localhost:8080/Login","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","origin":"http://localhost:8080","content-type":"application/json;charset=UTF-8","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","accept":"application/json, text/plain, */*","content-length":"50","connection":"close","host":"localhost:8000"}] -----
+[2021-01-18 12:42:27:715] - info: ----- incomming parameters Body [{"u_id":"6330001001","u_password":"0000000000000"}] -----
+[2021-01-18 12:42:27:715] - info: ----- request ip [::ffff:127.0.0.1] -----
+[2021-01-18 12:42:27:715] - info: ----- start time [Mon Jan 18 2021 12:42:27 GMT+0700 (Indochina Time)] -----
+[2021-01-18 12:42:27:715] - info: ----- error Message[MongoError: command find requires authentication] -----
+
